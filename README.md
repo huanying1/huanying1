@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   
 <p>
   <!-- Language -->
@@ -14,6 +14,8 @@
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="Pinia" src="https://img.shields.io/badge/-Pinia-F7D336?style=flat-square&logo=pinia&logoColor=000" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=000" />
 
   <!-- Backend -->
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
