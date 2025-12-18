@@ -17,6 +17,9 @@
 
   <!-- Backend -->
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Koa" src="https://img.shields.io/badge/-Koa-33333D?style=flat-square&logo=koa&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
   <img alt="Elysia" src="https://img.shields.io/badge/-Elysia-8B5CF6?style=flat-square" />
@@ -28,7 +31,9 @@
 
   <!-- Database / ORM -->
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle-0E2A47?style=flat-square&logo=drizzle&logoColor=white" />
 
   <!-- Build Tools -->
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -46,8 +51,7 @@
   <img alt="吃豆人贡献图"
     src="https://raw.githubusercontent.com/huanying1/huanying1/output/pacman-contribution-graph.svg">
 </picture>
-<!-- hyochan -->
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=huanying1)
+
 
 
 <!--
