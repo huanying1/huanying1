@@ -13,7 +13,7 @@
     src="https://raw.githubusercontent.com/huanying1/huanying1/output/pacman-contribution-graph.svg">
 </picture>
 
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=huanying1h
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=huanying1
 
 
 <!--
