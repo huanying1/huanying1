@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![jxmked GitHub 统计](https://gh-stats-card.vercel.app/api/huanying1)
 <!--
 **huanying1/huanying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
