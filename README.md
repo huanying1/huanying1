@@ -2,9 +2,10 @@
   
 ![技能](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,pinia,angular,nodejs,nestjs,bun,elysia,docker,git,pnpm,mysql,prisma,vite,webpack)
 ![个人资料详情](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huanying1)
+
 <!-- hyochan -->
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=huanying1)
-<!-- vn7n24fzkq -->
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=huanying1)
+
 ![GitHub 统计卡片](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq)
 <!--
 **huanying1/huanying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
