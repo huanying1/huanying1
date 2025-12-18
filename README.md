@@ -12,8 +12,8 @@
   <img alt="吃豆人贡献图"
     src="https://raw.githubusercontent.com/huanying1/huanying1/output/pacman-contribution-graph.svg">
 </picture>
-
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=huanying1
+<!-- hyochan -->
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=huanying1)
 
 
 <!--
