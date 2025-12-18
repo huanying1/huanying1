@@ -1,8 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   
 ![技能](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,pinia,angular,nodejs,nestjs,bun,elysia,docker,git,pnpm,mysql,prisma,vite,webpack)
-![jxmked GitHub 统计](https://gh-stats-card.vercel.app/api/huanying1)
 ![个人资料详情](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huanying1)
+<!-- hyochan -->
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=huanying1)
+<!-- vn7n24fzkq -->
+![GitHub 统计卡片](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq)
 <!--
 **huanying1/huanying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
