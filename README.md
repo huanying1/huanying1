@@ -1,12 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   
 ![技能](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,pinia,angular,nodejs,nestjs,bun,elysia,docker,git,pnpm,mysql,prisma,vite,webpack)
-![个人资料详情](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huanying1)
 
-<!-- hyochan -->
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=huanying1)
+## 我的贡献图
 
-![GitHub 统计卡片](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Owner]/[Repo]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Owner]/[Repo]/output/pacman-contribution-graph.svg">
+    <img alt="吃豆人贡献图" src="https://raw.githubusercontent.com/[Owner]/[Repo]/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--
 **huanying1/huanying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
