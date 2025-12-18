@@ -3,11 +3,16 @@
 ![技能](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,pinia,angular,nodejs,nestjs,bun,elysia,docker,git,pnpm,mysql,prisma,vite,webpack)
 
 ## 我的贡献图
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Owner]/[Repo]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Owner]/[Repo]/output/pacman-contribution-graph.svg">
-    <img alt="吃豆人贡献图" src="https://raw.githubusercontent.com/[Owner]/[Repo]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/huanying1/huanying1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/huanying1/huanying1/output/pacman-contribution-graph.svg">
+  <img alt="吃豆人贡献图"
+    src="https://raw.githubusercontent.com/huanying1/huanying1/output/pacman-contribution-graph.svg">
 </picture>
+
 
 <!--
 **huanying1/huanying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
