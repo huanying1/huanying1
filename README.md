@@ -1,4 +1,5 @@
 ## Hi there 👋
+![技能](https://skillicons.dev/icons?i=js,ts,,html,css,react,nextjs,vue,nuxtjs,pinia,angular,nodejs,nestjs,bunjs,elysia,dokcer,git,pnpm,mysql,prisma,vite,webpack)
 ![jxmked GitHub 统计](https://gh-stats-card.vercel.app/api/huanying1)
 <!--
 **huanying1/huanying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
